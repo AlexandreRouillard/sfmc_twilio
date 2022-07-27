@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://stark-basin-22502.herokuapp.com/journeybuilder/execute",
+            "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -30,9 +30,9 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "10c160bc-c332-4721-ba62-ab2a1b0d01b5",
+      "applicationExtensionKey": "4f4b74a0-cc9a-430e-a123-0097eab223db",
        "save": {
-           "url": "https://stark-basin-22502.herokuapp.com/save",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://stark-basin-22502.herokuapp.com/publish",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://stark-basin-22502.herokuapp.com/validate",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://stark-basin-22502.herokuapp.com/stop",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
