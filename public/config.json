@@ -32,15 +32,15 @@
     "configurationArguments": {
       "applicationExtensionKey": "4f4b74a0-cc9a-430e-a123-0097eab223db",
        "save": {
-           "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/save",
-            "verb": "POST",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/save",
+            "verb": "GET",
             "body": "",
             "format": "json",
             "useJwt": false,
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/publish",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/validate",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/stop",
+           "url": "https://twilio-sfmc-business-decision.herokuapp.com/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
