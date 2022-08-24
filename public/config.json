@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://twilio-sfmc-business-decision.herokuapp.com/journeybuilder/execute",
+            "url": "https://twilio-sfmc-business-decision.herokuapp.com/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -33,7 +33,7 @@
       "applicationExtensionKey": "4f4b74a0-cc9a-430e-a123-0097eab223db",
        "save": {
            "url": "https://twilio-sfmc-business-decision.herokuapp.com/save",
-            "verb": "GET",
+            "verb": "POST",
             "body": "",
             "format": "json",
             "useJwt": false,
