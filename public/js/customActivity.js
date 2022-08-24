@@ -90,6 +90,8 @@ define([
 
     function save() {
 
+        console.log("Je passe au début de la methode save customActivity");
+
         var accountSid = $('#accountSID').val();
         var authToken = $('#authToken').val();
         var messagingService = $('#messagingService').val();
