@@ -22,7 +22,7 @@
             ],
             "outArguments": [],
             "url": "https://twilio-sfmc-business-decision.herokuapp.com/execute",
-            "verb": "POST",
+            "verb": "POST", 
             "body": "",
             "format": "json",
             "useJwt": false,
