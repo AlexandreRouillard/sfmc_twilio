@@ -41,7 +41,7 @@
        },
        "publish": {
            "url": "https://twilio-sfmc-business-decision.herokuapp.com/publish",
-            "verb": "POST",
+            "verb": "get",
             "body": "",
             "format": "json",
             "useJwt": false,
